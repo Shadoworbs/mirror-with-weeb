@@ -48,6 +48,7 @@ class _BotCommands:
         self.RssSubCommand = f'rsssub{CMD_INDEX}'
         self.RssUnSubCommand = f'rssunsub{CMD_INDEX}'
         self.RssSettingsCommand = f'rssset{CMD_INDEX}'
+        self.WayBackCommand = f'wayback{CMD_INDEX}'
         self.AddModCommand = f'addmod{CMD_INDEX}'
         self.RmModCommand = f'rmmod{CMD_INDEX}'
         self.AddleechlogCommand = f'addll{CMD_INDEX}'
